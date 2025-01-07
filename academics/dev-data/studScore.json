@@ -1,0 +1,1153 @@
+[
+  {
+    "rollNo": 1,
+    "acadYear": "2023-2024",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 25,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 2,
+    "acadYear": "2023-2024",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 35,
+          "submissionDate": "1/5/2024",
+          "remark": "Great effort"
+        },
+        {
+          "name": "assignment-02",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "2/6/2024",
+          "remark": "Satisfactory"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 25
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 30,
+          "submissionDate": "1/5/2024",
+          "remark": "Good work"
+        },
+        {
+          "name": "assignment-02",
+          "marks": 30,
+          "score": 20,
+          "submissionDate": "2/6/2024",
+          "remark": "Needs improvement"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 15
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 20,
+          "submissionDate": "1/5/2024",
+          "remark": "Good attempt"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 60
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 45,
+          "submissionDate": "2/6/2024",
+          "remark": "Excellent work"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 30
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 50,
+          "score": 40,
+          "submissionDate": "1/5/2024",
+          "remark": "Great effort"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 50,
+          "score": 25
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 35,
+          "submissionDate": "1/5/2024",
+          "remark": "Good analysis"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 60,
+          "score": 30
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 3,
+    "acadYear": "2023-2024",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent effort"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 65
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 38,
+          "submissionDate": "2/4/2024",
+          "remark": "Great effort"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 60,
+          "score": 58
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 50,
+          "score": 45,
+          "submissionDate": "2/4/2024",
+          "remark": "Well done"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 50,
+          "score": 35
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 60,
+          "submissionDate": "2/4/2024",
+          "remark": "Good work"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 30
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "2/4/2024",
+          "remark": "Well done"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 55
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 38,
+          "submissionDate": "2/4/2024",
+          "remark": "Good attempt"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 60,
+          "score": 45
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 4,
+    "acadYear": "2023-2024",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 35,
+          "score": 28,
+          "submissionDate": "2/4/2024",
+          "remark": "Good effort"
+        },
+        {
+          "name": "assignment-02",
+          "marks": 25,
+          "score": 22,
+          "submissionDate": "3/5/2024",
+          "remark": "Needs improvement"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 40,
+          "score": 30
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 50,
+          "score": 45,
+          "submissionDate": "2/4/2024",
+          "remark": "Excellent effort"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 50,
+          "score": 35
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 60,
+          "score": 48,
+          "submissionDate": "2/4/2024",
+          "remark": "Good work"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 40,
+          "score": 28
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 60,
+          "score": 55,
+          "submissionDate": "2/4/2024",
+          "remark": "Good performance"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 40,
+          "score": 30
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 60,
+          "score": 50,
+          "submissionDate": "2/4/2024",
+          "remark": "Well done"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 40,
+          "score": 35
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 60,
+          "score": 50,
+          "submissionDate": "2/4/2024",
+          "remark": "Great effort"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 40,
+          "score": 30
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 5,
+    "acadYear": "2023-2024",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 28,
+          "submissionDate": "1/4/2024",
+          "remark": "Excellent work"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 65
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 35,
+          "score": 30,
+          "submissionDate": "1/4/2024",
+          "remark": "Good effort"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 65,
+          "score": 55
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 30,
+          "submissionDate": "2/4/2024",
+          "remark": "Great work"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 60,
+          "score": 55
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 40,
+          "score": 35,
+          "submissionDate": "1/4/2024",
+          "remark": "Good work"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 60,
+          "score": 50
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 35,
+          "score": 28,
+          "submissionDate": "1/4/2024",
+          "remark": "Satisfactory"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 65,
+          "score": 60
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 45,
+          "score": 38,
+          "submissionDate": "1/4/2024",
+          "remark": "Well done"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 55,
+          "score": 45
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 1,
+    "acadYear": "2022-2023",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2023",
+          "remark": "Excellent analytics skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2023",
+          "remark": "Excellent presentation skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2023",
+          "remark": "Strong grasp of the language"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 45,
+          "submissionDate": "2/4/2023",
+          "remark": "Great problem-solving skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 25
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2023",
+          "remark": "Very good practical understanding"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "2/4/2023",
+          "remark": "Good understanding of history"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 2,
+    "acadYear": "2022-2023",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "3/4/2023",
+          "remark": "Outstanding writing skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 28,
+          "submissionDate": "3/4/2023",
+          "remark": "Great comprehension"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 42
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 26,
+          "submissionDate": "3/4/2023",
+          "remark": "Good language command"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 44
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 50,
+          "submissionDate": "3/4/2023",
+          "remark": "Excellent problem-solving skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 20
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "3/4/2023",
+          "remark": "Good theoretical understanding"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 28,
+          "submissionDate": "3/4/2023",
+          "remark": "Well-organized thoughts"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 42
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 3,
+    "acadYear": "2022-2023",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 23,
+          "submissionDate": "4/4/2023",
+          "remark": "Good writing ability"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 48
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "4/4/2023",
+          "remark": "Great analysis"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "4/4/2023",
+          "remark": "Needs improvement in writing"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 40,
+          "submissionDate": "4/4/2023",
+          "remark": "Good effort, but needs more practice"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 30
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 22,
+          "submissionDate": "4/4/2023",
+          "remark": "Requires more understanding of concepts"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 46
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "4/4/2023",
+          "remark": "Good grasp of social issues"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 4,
+    "acadYear": "2022-2023",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 28,
+          "submissionDate": "5/4/2023",
+          "remark": "Strong writing abilities"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "5/4/2023",
+          "remark": "Improvement needed"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "5/4/2023",
+          "remark": "Impressive skills"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 50,
+          "submissionDate": "5/4/2023",
+          "remark": "Excellent understanding"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 20
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 28,
+          "submissionDate": "5/4/2023",
+          "remark": "Great understanding of concepts"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 42
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "5/4/2023",
+          "remark": "Needs more analysis"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    }
+  },
+  {
+    "rollNo": 5,
+    "acadYear": "2022-2023",
+    "class": "X",
+    "english": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "6/4/2023",
+          "remark": "Good understanding of the material"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    },
+    "hindi": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 26,
+          "submissionDate": "6/4/2023",
+          "remark": "Improving comprehension"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 44
+        }
+      ]
+    },
+    "telugu": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 30,
+          "submissionDate": "6/4/2023",
+          "remark": "Strong grasp"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 40
+        }
+      ]
+    },
+    "mathematics": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 70,
+          "score": 60,
+          "submissionDate": "6/4/2023",
+          "remark": "Excellent performance"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 30,
+          "score": 10
+        }
+      ]
+    },
+    "science": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 28,
+          "submissionDate": "6/4/2023",
+          "remark": "Great understanding"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 42
+        }
+      ]
+    },
+    "socialStudies": {
+      "assignments": [
+        {
+          "name": "assignment-01",
+          "marks": 30,
+          "score": 25,
+          "submissionDate": "6/4/2023",
+          "remark": "Good understanding"
+        }
+      ],
+      "tests": [
+        {
+          "name": "Final Exam",
+          "marks": 70,
+          "score": 45
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "bookId": 1,
+    "title": "Basic Mathematics",
+    "subject": "Mathematics",
+    "grade": 1
+  },
+  {
+    "bookId": 2,
+    "title": "English Alphabets",
+    "subject": "English",
+    "grade": 1
+  },
+  {
+    "bookId": 3,
+    "title": "Basic Science",
+    "subject": "Science",
+    "grade": 2
+  },
+  {
+    "bookId": 4,
+    "title": "Hindi Stories",
+    "subject": "Hindi",
+    "grade": 2
+  },
+  {
+    "bookId": 5,
+    "title": "Telugu Varnamala",
+    "subject": "Telugu",
+    "grade": 2
+  },
+  {
+    "bookId": 6,
+    "title": "Social Studies for Kids",
+    "subject": "Social Studies",
+    "grade": 3
+  },
+  {
+    "bookId": 7,
+    "title": "Fun with Numbers",
+    "subject": "Mathematics",
+    "grade": 3
+  },
+  {
+    "bookId": 8,
+    "title": "Telugu Kathalu",
+    "subject": "Telugu",
+    "grade": 3
+  },
+  {
+    "bookId": 9,
+    "title": "Advanced English Grammar",
+    "subject": "English",
+    "grade": 4
+  },
+  {
+    "bookId": 10,
+    "title": "Life Sciences",
+    "subject": "Science",
+    "grade": 4
+  },
+  {
+    "bookId": 11,
+    "title": "Telugu Sahityam",
+    "subject": "Telugu",
+    "grade": 4
+  },
+  {
+    "bookId": 12,
+    "title": "Mathematics in Action",
+    "subject": "Mathematics",
+    "grade": 5
+  },
+  {
+    "bookId": 13,
+    "title": "World Geography",
+    "subject": "Social Studies",
+    "grade": 5
+  },
+  {
+    "bookId": 14,
+    "title": "Telugu Kavithalu",
+    "subject": "Telugu",
+    "grade": 5
+  },
+  {
+    "bookId": 15,
+    "title": "Physics for Beginners",
+    "subject": "Science",
+    "grade": 6
+  },
+  {
+    "bookId": 16,
+    "title": "Indian History",
+    "subject": "Social Studies",
+    "grade": 6
+  },
+  {
+    "bookId": 17,
+    "title": "Telugu Grammar",
+    "subject": "Telugu",
+    "grade": 6
+  },
+  {
+    "bookId": 18,
+    "title": "Geometry Basics",
+    "subject": "Mathematics",
+    "grade": 7
+  },
+  {
+    "bookId": 19,
+    "title": "Environmental Science",
+    "subject": "Science",
+    "grade": 7
+  },
+  {
+    "bookId": 20,
+    "title": "Telugu Samethalu",
+    "subject": "Telugu",
+    "grade": 7
+  },
+  {
+    "bookId": 21,
+    "title": "Grammar Skills",
+    "subject": "English",
+    "grade": 8
+  },
+  {
+    "bookId": 22,
+    "title": "Political Science",
+    "subject": "Social Studies",
+    "grade": 8
+  },
+  {
+    "bookId": 23,
+    "title": "Telugu Kavyalu",
+    "subject": "Telugu",
+    "grade": 8
+  },
+  {
+    "bookId": 24,
+    "title": "Algebra Advanced",
+    "subject": "Mathematics",
+    "grade": 9
+  },
+  {
+    "bookId": 25,
+    "title": "Physics Concepts",
+    "subject": "Science",
+    "grade": 9
+  },
+  {
+    "bookId": 26,
+    "title": "Telugu Literature",
+    "subject": "Telugu",
+    "grade": 9
+  },
+  {
+    "bookId": 27,
+    "title": "Trigonometry Guide",
+    "subject": "Mathematics",
+    "grade": 10
+  },
+  {
+    "bookId": 28,
+    "title": "World History",
+    "subject": "Social Studies",
+    "grade": 10
+  },
+  {
+    "bookId": 29,
+    "title": "Telugu Natakam",
+    "subject": "Telugu",
+    "grade": 10
+  },
+  {
+    "bookId": 30,
+    "title": "Mathematics for Commerce",
+    "subject": "Mathematics",
+    "grade": 11
+  },
+  {
+    "bookId": 31,
+    "title": "Physics Fundamentals",
+    "subject": "Science",
+    "grade": 11
+  },
+  {
+    "bookId": 32,
+    "title": "Telugu Sahitya Charitra",
+    "subject": "Telugu",
+    "grade": 11
+  },
+  {
+    "bookId": 33,
+    "title": "Calculus and Vectors",
+    "subject": "Mathematics",
+    "grade": 12
+  },
+  {
+    "bookId": 34,
+    "title": "Organic Chemistry",
+    "subject": "Science",
+    "grade": 12
+  },
+  {
+    "bookId": 35,
+    "title": "Advanced Telugu Grammar",
+    "subject": "Telugu",
+    "grade": 12
+  }
+]

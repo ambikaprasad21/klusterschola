@@ -1,0 +1,492 @@
+[
+  {
+    "bookId": 1,
+    "chapterNum": 1,
+    "title": "Introduction to Numbers",
+    "description": "Learn about numbers and basic counting.",
+    "pdflink": "https://example.com/book1/chapter1.pdf"
+  },
+  {
+    "bookId": 1,
+    "chapterNum": 2,
+    "title": "Addition and Subtraction",
+    "description": "Basic concepts of addition and subtraction.",
+    "pdflink": "https://example.com/book1/chapter2.pdf"
+  },
+  {
+    "bookId": 2,
+    "chapterNum": 1,
+    "title": "The Alphabet",
+    "description": "An introduction to English alphabets.",
+    "pdflink": "https://example.com/book2/chapter1.pdf"
+  },
+  {
+    "bookId": 2,
+    "chapterNum": 2,
+    "title": "Simple Words",
+    "description": "Learn how to form simple words with alphabets.",
+    "pdflink": "https://example.com/book2/chapter2.pdf"
+  },
+  {
+    "bookId": 3,
+    "chapterNum": 1,
+    "title": "Living and Non-Living Things",
+    "description": "Understand the difference between living and non-living things.",
+    "pdflink": "https://example.com/book3/chapter1.pdf"
+  },
+  {
+    "bookId": 3,
+    "chapterNum": 2,
+    "title": "Plants and Animals",
+    "description": "Learn about different types of plants and animals.",
+    "pdflink": "https://example.com/book3/chapter2.pdf"
+  },
+  {
+    "bookId": 4,
+    "chapterNum": 1,
+    "title": "Famous Hindi Stories",
+    "description": "An overview of some famous Hindi stories.",
+    "pdflink": "https://example.com/book4/chapter1.pdf"
+  },
+  {
+    "bookId": 4,
+    "chapterNum": 2,
+    "title": "Moral Lessons",
+    "description": "Understand the morals of Hindi stories.",
+    "pdflink": "https://example.com/book4/chapter2.pdf"
+  },
+  {
+    "bookId": 5,
+    "chapterNum": 1,
+    "title": "Introduction to Telugu Varnamala",
+    "description": "An introduction to Telugu Alphabets.",
+    "pdflink": "https://example.com/book5/chapter1.pdf"
+  },
+  {
+    "bookId": 5,
+    "chapterNum": 2,
+    "title": "Simple Telugu Words",
+    "description": "Learn simple Telugu words and their usage.",
+    "pdflink": "https://example.com/book5/chapter2.pdf"
+  },
+  {
+    "bookId": 6,
+    "chapterNum": 1,
+    "title": "What is Social Studies?",
+    "description": "Understand the importance of social studies.",
+    "pdflink": "https://example.com/book6/chapter1.pdf"
+  },
+  {
+    "bookId": 6,
+    "chapterNum": 2,
+    "title": "Geography and Climate",
+    "description": "Learn about geography and climate concepts.",
+    "pdflink": "https://example.com/book6/chapter2.pdf"
+  },
+  {
+    "bookId": 7,
+    "chapterNum": 1,
+    "title": "Understanding Numbers",
+    "description": "Explore the basics of numbers and counting.",
+    "pdflink": "https://example.com/book7/chapter1.pdf"
+  },
+  {
+    "bookId": 7,
+    "chapterNum": 2,
+    "title": "Addition and Subtraction",
+    "description": "Learn addition and subtraction techniques.",
+    "pdflink": "https://example.com/book7/chapter2.pdf"
+  },
+  {
+    "bookId": 8,
+    "chapterNum": 1,
+    "title": "Telugu Short Stories",
+    "description": "Famous short stories in Telugu.",
+    "pdflink": "https://example.com/book8/chapter1.pdf"
+  },
+  {
+    "bookId": 8,
+    "chapterNum": 2,
+    "title": "Telugu Proverbs",
+    "description": "A look into famous Telugu proverbs.",
+    "pdflink": "https://example.com/book8/chapter2.pdf"
+  },
+  {
+    "bookId": 9,
+    "chapterNum": 1,
+    "title": "Basic English Grammar",
+    "description": "An introduction to English grammar.",
+    "pdflink": "https://example.com/book9/chapter1.pdf"
+  },
+  {
+    "bookId": 9,
+    "chapterNum": 2,
+    "title": "Tenses and Usage",
+    "description": "Understand English tenses and their usage.",
+    "pdflink": "https://example.com/book9/chapter2.pdf"
+  },
+  {
+    "bookId": 10,
+    "chapterNum": 1,
+    "title": "Introduction to Life Sciences",
+    "description": "What is life science and its importance.",
+    "pdflink": "https://example.com/book10/chapter1.pdf"
+  },
+  {
+    "bookId": 10,
+    "chapterNum": 2,
+    "title": "Human Body Systems",
+    "description": "Learn about the systems of the human body.",
+    "pdflink": "https://example.com/book10/chapter2.pdf"
+  },
+  {
+    "bookId": 11,
+    "chapterNum": 1,
+    "title": "Telugu Language and Literature",
+    "description": "Introduction to Telugu language and literature.",
+    "pdflink": "https://example.com/book11/chapter1.pdf"
+  },
+  {
+    "bookId": 11,
+    "chapterNum": 2,
+    "title": "Famous Telugu Poets",
+    "description": "Learn about famous poets in Telugu literature.",
+    "pdflink": "https://example.com/book11/chapter2.pdf"
+  },
+  {
+    "bookId": 12,
+    "chapterNum": 1,
+    "title": "Mathematics Fundamentals",
+    "description": "Basic concepts in mathematics.",
+    "pdflink": "https://example.com/book12/chapter1.pdf"
+  },
+  {
+    "bookId": 12,
+    "chapterNum": 2,
+    "title": "Multiplication and Division",
+    "description": "Learn multiplication and division in detail.",
+    "pdflink": "https://example.com/book12/chapter2.pdf"
+  },
+  {
+    "bookId": 13,
+    "chapterNum": 1,
+    "title": "Geography of the World",
+    "description": "Introduction to the world's geography.",
+    "pdflink": "https://example.com/book13/chapter1.pdf"
+  },
+  {
+    "bookId": 13,
+    "chapterNum": 2,
+    "title": "Countries and Continents",
+    "description": "Learn about the different countries and continents.",
+    "pdflink": "https://example.com/book13/chapter2.pdf"
+  },
+  {
+    "bookId": 14,
+    "chapterNum": 1,
+    "title": "Introduction to Telugu Poetry",
+    "description": "An introduction to Telugu poetry and its types.",
+    "pdflink": "https://example.com/book14/chapter1.pdf"
+  },
+  {
+    "bookId": 14,
+    "chapterNum": 2,
+    "title": "Famous Telugu Poems",
+    "description": "Learn about famous Telugu poems.",
+    "pdflink": "https://example.com/book14/chapter2.pdf"
+  },
+  {
+    "bookId": 15,
+    "chapterNum": 1,
+    "title": "Physics Basics",
+    "description": "Introduction to basic physics concepts.",
+    "pdflink": "https://example.com/book15/chapter1.pdf"
+  },
+  {
+    "bookId": 15,
+    "chapterNum": 2,
+    "title": "Motion and Forces",
+    "description": "Understanding motion and forces in physics.",
+    "pdflink": "https://example.com/book15/chapter2.pdf"
+  },
+  {
+    "bookId": 16,
+    "chapterNum": 1,
+    "title": "History of India",
+    "description": "Learn about India's history.",
+    "pdflink": "https://example.com/book16/chapter1.pdf"
+  },
+  {
+    "bookId": 16,
+    "chapterNum": 2,
+    "title": "Ancient Indian Civilizations",
+    "description": "Explore ancient civilizations in India.",
+    "pdflink": "https://example.com/book16/chapter2.pdf"
+  },
+  {
+    "bookId": 17,
+    "chapterNum": 1,
+    "title": "Telugu Grammar Basics",
+    "description": "Basic grammar concepts in Telugu.",
+    "pdflink": "https://example.com/book17/chapter1.pdf"
+  },
+  {
+    "bookId": 17,
+    "chapterNum": 2,
+    "title": "Advanced Telugu Grammar",
+    "description": "Dive into more advanced Telugu grammar.",
+    "pdflink": "https://example.com/book17/chapter2.pdf"
+  },
+  {
+    "bookId": 18,
+    "chapterNum": 1,
+    "title": "Introduction to Geometry",
+    "description": "Learn about basic geometry concepts.",
+    "pdflink": "https://example.com/book18/chapter1.pdf"
+  },
+  {
+    "bookId": 18,
+    "chapterNum": 2,
+    "title": "Triangles and Angles",
+    "description": "Study triangles, angles, and their properties.",
+    "pdflink": "https://example.com/book18/chapter2.pdf"
+  },
+  {
+    "bookId": 19,
+    "chapterNum": 1,
+    "title": "Introduction to Environmental Science",
+    "description": "Basic concepts in environmental science.",
+    "pdflink": "https://example.com/book19/chapter1.pdf"
+  },
+  {
+    "bookId": 19,
+    "chapterNum": 2,
+    "title": "Ecosystems and Biodiversity",
+    "description": "Learn about ecosystems and biodiversity.",
+    "pdflink": "https://example.com/book19/chapter2.pdf"
+  },
+  {
+    "bookId": 20,
+    "chapterNum": 1,
+    "title": "Telugu Proverbs and Idioms",
+    "description": "Famous Telugu proverbs and their meanings.",
+    "pdflink": "https://example.com/book20/chapter1.pdf"
+  },
+  {
+    "bookId": 20,
+    "chapterNum": 2,
+    "title": "Folk Songs in Telugu",
+    "description": "Learn about popular Telugu folk songs.",
+    "pdflink": "https://example.com/book20/chapter2.pdf"
+  },
+  {
+    "bookId": 21,
+    "chapterNum": 1,
+    "title": "Introduction to Grammar",
+    "description": "Basic concepts in English grammar.",
+    "pdflink": "https://example.com/book21/chapter1.pdf"
+  },
+  {
+    "bookId": 21,
+    "chapterNum": 2,
+    "title": "Parts of Speech",
+    "description": "Learn about the different parts of speech.",
+    "pdflink": "https://example.com/book21/chapter2.pdf"
+  },
+  {
+    "bookId": 22,
+    "chapterNum": 1,
+    "title": "Political Science Fundamentals",
+    "description": "Understand the basics of political science.",
+    "pdflink": "https://example.com/book22/chapter1.pdf"
+  },
+  {
+    "bookId": 22,
+    "chapterNum": 2,
+    "title": "Indian Constitution",
+    "description": "Learn about India's constitution.",
+    "pdflink": "https://example.com/book22/chapter2.pdf"
+  },
+  {
+    "bookId": 23,
+    "chapterNum": 1,
+    "title": "Physics Fundamentals",
+    "description": "Basic physics concepts and principles.",
+    "pdflink": "https://example.com/book23/chapter1.pdf"
+  },
+  {
+    "bookId": 23,
+    "chapterNum": 2,
+    "title": "Forces and Energy",
+    "description": "Explore forces and energy in physics.",
+    "pdflink": "https://example.com/book23/chapter2.pdf"
+  },
+  {
+    "bookId": 24,
+    "chapterNum": 1,
+    "title": "Introduction to Algebra",
+    "description": "Fundamental concepts of algebra.",
+    "pdflink": "https://example.com/book24/chapter1.pdf"
+  },
+  {
+    "bookId": 24,
+    "chapterNum": 2,
+    "title": "Linear Equations",
+    "description": "Solving linear equations.",
+    "pdflink": "https://example.com/book24/chapter2.pdf"
+  },
+  {
+    "bookId": 25,
+    "chapterNum": 1,
+    "title": "Kinematics in Physics",
+    "description": "Understanding motion and its principles.",
+    "pdflink": "https://example.com/book25/chapter1.pdf"
+  },
+  {
+    "bookId": 25,
+    "chapterNum": 2,
+    "title": "Laws of Motion",
+    "description": "Exploring Newton's laws of motion.",
+    "pdflink": "https://example.com/book25/chapter2.pdf"
+  },
+  {
+    "bookId": 26,
+    "chapterNum": 1,
+    "title": "Introduction to Telugu Literature",
+    "description": "Overview of Telugu literature and its roots.",
+    "pdflink": "https://example.com/book26/chapter1.pdf"
+  },
+  {
+    "bookId": 26,
+    "chapterNum": 2,
+    "title": "Famous Telugu Authors",
+    "description": "Study of notable Telugu authors.",
+    "pdflink": "https://example.com/book26/chapter2.pdf"
+  },
+  {
+    "bookId": 27,
+    "chapterNum": 1,
+    "title": "Trigonometric Ratios",
+    "description": "Fundamentals of trigonometric ratios.",
+    "pdflink": "https://example.com/book27/chapter1.pdf"
+  },
+  {
+    "bookId": 27,
+    "chapterNum": 2,
+    "title": "Trigonometric Identities",
+    "description": "Exploring trigonometric identities.",
+    "pdflink": "https://example.com/book27/chapter2.pdf"
+  },
+  {
+    "bookId": 28,
+    "chapterNum": 1,
+    "title": "Ancient Civilizations",
+    "description": "Study of early human civilizations.",
+    "pdflink": "https://example.com/book28/chapter1.pdf"
+  },
+  {
+    "bookId": 28,
+    "chapterNum": 2,
+    "title": "Renaissance and Reformation",
+    "description": "Exploring the Renaissance and Reformation periods.",
+    "pdflink": "https://example.com/book28/chapter2.pdf"
+  },
+  {
+    "bookId": 29,
+    "chapterNum": 1,
+    "title": "Introduction to Telugu Natakam",
+    "description": "Study of classical Telugu drama.",
+    "pdflink": "https://example.com/book29/chapter1.pdf"
+  },
+  {
+    "bookId": 29,
+    "chapterNum": 2,
+    "title": "Famous Telugu Dramas",
+    "description": "Overview of notable Telugu natakams.",
+    "pdflink": "https://example.com/book29/chapter2.pdf"
+  },
+  {
+    "bookId": 30,
+    "chapterNum": 1,
+    "title": "Mathematics in Commerce",
+    "description": "Mathematical concepts applicable in commerce.",
+    "pdflink": "https://example.com/book30/chapter1.pdf"
+  },
+  {
+    "bookId": 30,
+    "chapterNum": 2,
+    "title": "Profit and Loss Calculations",
+    "description": "Understanding profit and loss in commerce.",
+    "pdflink": "https://example.com/book30/chapter2.pdf"
+  },
+  {
+    "bookId": 31,
+    "chapterNum": 1,
+    "title": "Laws of Thermodynamics",
+    "description": "Understanding the basic laws of thermodynamics.",
+    "pdflink": "https://example.com/book31/chapter1.pdf"
+  },
+  {
+    "bookId": 31,
+    "chapterNum": 2,
+    "title": "Optics and Waves",
+    "description": "Exploring optics and wave phenomena.",
+    "pdflink": "https://example.com/book31/chapter2.pdf"
+  },
+  {
+    "bookId": 32,
+    "chapterNum": 1,
+    "title": "History of Telugu Literature",
+    "description": "A deep dive into the evolution of Telugu literature.",
+    "pdflink": "https://example.com/book32/chapter1.pdf"
+  },
+  {
+    "bookId": 32,
+    "chapterNum": 2,
+    "title": "Modern Telugu Writers",
+    "description": "Study of contemporary Telugu authors.",
+    "pdflink": "https://example.com/book32/chapter2.pdf"
+  },
+  {
+    "bookId": 33,
+    "chapterNum": 1,
+    "title": "Introduction to Calculus",
+    "description": "Basic concepts of calculus and its applications.",
+    "pdflink": "https://example.com/book33/chapter1.pdf"
+  },
+  {
+    "bookId": 33,
+    "chapterNum": 2,
+    "title": "Differentiation and Integration",
+    "description": "The basics of differentiation and integration.",
+    "pdflink": "https://example.com/book33/chapter2.pdf"
+  },
+  {
+    "bookId": 34,
+    "chapterNum": 1,
+    "title": "Organic Compounds and Their Reactions",
+    "description": "Study of organic compounds and their reactions.",
+    "pdflink": "https://example.com/book34/chapter1.pdf"
+  },
+  {
+    "bookId": 34,
+    "chapterNum": 2,
+    "title": "Organic Chemistry Lab",
+    "description": "Experiments in organic chemistry.",
+    "pdflink": "https://example.com/book34/chapter2.pdf"
+  },
+  {
+    "bookId": 35,
+    "chapterNum": 1,
+    "title": "Advanced Telugu Grammar - Part 1",
+    "description": "Study of advanced grammatical concepts in Telugu.",
+    "pdflink": "https://example.com/book35/chapter1.pdf"
+  },
+  {
+    "bookId": 35,
+    "chapterNum": 2,
+    "title": "Advanced Telugu Grammar - Part 2",
+    "description": "Further exploration of advanced Telugu grammar.",
+    "pdflink": "https://example.com/book35/chapter2.pdf"
+  }
+]
