@@ -35,6 +35,7 @@ npm run add-academic-data
 ```
 
 `npm run add-library-data` will create a library database into your local mongodb and will add the required data for library microservice.
+
 `npm run add-academic-data` will create a academics database into your local mongodb and will add the required data for academics microservice.
 
 - use `npm run start-lib` to start the library server which will run on port 5000.
